@@ -1,0 +1,27 @@
+.item {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(0, 0, 0, 0.285);
+    border-radius: 8px;
+    width: 520px;
+}
+
+.item_title {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.item_description {
+    font-size: 20px;
+}
+
+.item_description2 {
+    font-size: 18px;
+}
+
+.item_no {
+    color: rgb(129, 129, 129);
+}
